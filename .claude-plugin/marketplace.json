@@ -1,0 +1,17 @@
+{
+  "name": "my-skills",
+  "owner": {
+    "name": "moamenhani-droid"
+  },
+  "metadata": {
+    "description": "Personal collection of Claude skills: UI/UX, security audit, motion graphics, and 21st.dev."
+  },
+  "plugins": [
+    {
+      "name": "all-skills",
+      "source": "./plugins/all-skills",
+      "description": "All 25 skills in one plugin: ui-ux-pro-max, security-audit, 15 motion-graphics skills, and 8 official 21st.dev skills.",
+      "version": "1.0.0"
+    }
+  ]
+}
